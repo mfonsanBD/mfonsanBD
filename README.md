@@ -38,8 +38,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="205em" src="https://github-readme-stats.vercel.app/api?username=mfonsanBD&show_icons=true&theme=github_dark " alt="mfonsanBD's stats"/>&nbsp;
-<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfonsanBD&layout=compact&theme=github_dark " alt="mfonsanBD's most languages"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api?username=mfonsanBD&show_icons=true&theme=github_dark " alt="mfonsanBD's stats"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfonsanBD&layout=compact&theme=github_dark " alt="mfonsanBD's most languages"/>
 </p>
 
 <br><br>
