@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mike Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfonsanBD&color=yellow" alt="Profile Views" /> </p>
 
-- 🔥 Web and Mobile Developer with Laravel | NextJS | React Native
+- 🔥 Web and Mobile Developer with Laravel | NextJS | React Native | Typescript
 
-- 🔭 I’m currently working at [Labnoratório Contraprova](https://exames.contraprova.com.br/)
+- 🔭 I’m currently working at [Laboratório Contraprova](https://exames.contraprova.com.br/)
 
 - 👨‍💻 See my Web Portfolio in [mikedev.com.br](https://mikedev.com.br)
 
